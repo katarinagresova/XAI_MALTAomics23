@@ -8,5 +8,5 @@ To follow this workshop, you only need Google account to access Google Colab not
 ## Outline
 
 1. Theoretical intro
-2. Practical overview of interpretation methods for image data
+2. [Hands on: Practical overview of explainability methods for image data](interpreting_images.ipynb)
 3. [Use case: miRNA target prediction](miRNA_target_prediction.ipynb)
