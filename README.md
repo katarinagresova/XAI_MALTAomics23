@@ -8,7 +8,7 @@ To follow this workshop, you only need Google account to access Google Colab not
 ## Outline
 
 1. Theoretical intro
-2. [Hands on: Practical overview of explainability methods for image data](interpreting_images.ipynb)
-3. Use case: miRNA target prediction
-4. [Hands on: Using DeepExperiment to interpret and visualize miRNA targeting](miRNA_target_prediction.ipynb)
-5. [Hands on: Investigating drop of performance in neural networks](Decoy_MNIST.ipynb)
+2. [Hands on: Practical overview of explainability methods for genomic sequence data](interpreting_sequences.ipynb)
+3. [Hands on: Practical overview of explainability methods for image data](interpreting_images.ipynb)
+4. Use case: miRNA target prediction
+5. [Hands on: Using DeepExperiment to interpret and visualize miRNA targeting](miRNA_target_prediction.ipynb)
